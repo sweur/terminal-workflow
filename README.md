@@ -1,4 +1,4 @@
-# twf
+# Terminal Workflow
 
 <p align="center">
   <img src="twf.png" alt="Terminal Workflow logo" width="500">
