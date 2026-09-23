@@ -1,7 +1,7 @@
 # twf
 
 <p align="center">
-  <img src="twf.jpeg" alt="Terminal Workflow logo" width="500">
+  <img src="twf.png" alt="Terminal Workflow logo" width="500">
 </p>
 
 Terminal Workflow (twf) is a tiny CLI for chaining shell commands you run all the time.
